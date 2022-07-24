@@ -13,4 +13,7 @@ The purpose of this project is to visually show the differences between the magn
 
 
 ## Results
-The outcome of this project is an informative map that can be viewed as a street, satellite and dark format. 
+The outcome of this project is an informative map that can be viewed as a street, satellite and dark mode. 
+
+
+![Earthquakes.png](https://github.com/ARobles127/Mapping_Earthquakes/blob/main/Earthquakes.png) 
